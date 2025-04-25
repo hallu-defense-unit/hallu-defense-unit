@@ -1,16 +1,59 @@
-## Hi there 👋
+# ✨ Haruru防衛隊 — 出力信頼性を護るAI評価ラボ
 
-<!--
-**hallu-defense-unit/hallu-defense-unit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ Haruru防衛隊とは？
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Haruru防衛隊は、生成AI（LLM）が出力するテキストの  
+**構文・意味・事実性** を人間の手でスコアリング・評価し、  
+**ハルシネーション（事実誤認）を自律的に抑止する文化**を育てる  
+オープンラボ型プロジェクトです。
+
+---
+
+## 🎯 目指すこと
+
+- LLM（GPT, Claude, Geminiなど）の出力信頼性を可視化する
+- 出力評価テンプレート・プロンプトを共有・改善する
+- 個々の知見を集積し、信頼できるAI出力文化を構築する
+
+---
+
+## 🧪 活動内容
+
+- 毎週お題発表 → 出力比較 → 評価投稿
+- 出力構造・事実性の観点から、各モデルの強み弱みを検証
+- 信頼性スコアリングプロトコル（特許出願済み）の実験運用
+
+---
+
+## 🌐 公式サイト
+
+👉 [https://hallu.defense.unit.lol](https://hallu.defense.unit.lol)
+
+※現在ベータ公開準備中！
+
+---
+
+## 🤝 参加方法
+
+1. 公式サイトでお題を確認
+2. AIモデルに回答させる
+3. 出力を比較・評価して投稿！（フォームまたはGitHub Issue）
+
+（※現在、順次コンテンツ拡充中です）
+
+---
+
+## 📜 技術背景
+
+Haruru防衛隊は、  
+**出力信頼性評価プロトコル（Hallu Defense Protocol）**  
+をコアに据えたプロジェクトです。
+
+特許出願番号：**特願2025-069355**  
+（記録支援システムおよび出力信頼性評価方法）
+
+---
+
+# 🚀 Let's Defend the Truth Together.
